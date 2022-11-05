@@ -1,0 +1,68 @@
+/* */
+
+ /* *{
+    background-color:aliceblue;
+ } */
+
+
+    /*SELECTOR DE ETIQUETA */
+    body {
+        background-image: url("https://www.creativosonline.org/wp-content/uploads/2014/02/fondos-gratis.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        
+        }
+       h2 {
+        background-color: rgba(0, 0, 255, 0.242);
+        color:rgb(243, 242, 234);
+        padding: 10px;
+        text-align: center;
+        }
+    
+        /*SELECTOR DE CLASE */
+        .imagen{
+            width:20%;
+           height: 10%;
+           border: 5px solid rgb(163, 222, 173);
+        }
+    .imagens{
+        width: 20%;
+        height: 10%;
+        border: 5px solid rgb(144, 68, 156);
+    }
+    
+    #titulo{
+        background-color: brown;
+        
+    }
+    /*class*/
+
+    .parrafo{
+     background-image: url(https://img.freepik.com/vector-gratis/fondo-invierno-hojas-pinceles-color-pastel_220290-42.jpg?w=2000);
+     background-repeat: no-repeat
+    }
+    .parrafos{
+        background-color: rgb(235, 228, 163);
+        background-repeat: no-repeat
+       }
+       .parrafob{
+        background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/402/683/small/night-starry-sky-and-pink-clouds-sunrise-free-vector.jpg);
+        background-size: cover;
+        color: azure;
+        background-repeat: no-repeat
+       }
+       .parrafox{
+        background-color: rgb(145, 210, 16);
+        background-repeat: no-repeat
+       }
+
+    h3 {
+        background-color: rgba(0, 0, 255, 0.178);
+        color:rgb(139, 14, 14);
+        padding: 10px;
+        text-align: center;
+        }
+    
+    

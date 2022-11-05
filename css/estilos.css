@@ -19,6 +19,7 @@
         color:rgb(243, 242, 234);
         padding: 10px;
         text-align: center;
+       font-style: oblique; 
         }
     
         /*SELECTOR DE CLASE */
@@ -63,6 +64,8 @@
         color:rgb(139, 14, 14);
         padding: 10px;
         text-align: center;
+        font-style: oblique; 
         }
+
     
     
